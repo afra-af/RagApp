@@ -1,0 +1,13 @@
+streamlit 
+langchain_groq 
+google-generativeai
+langchain_google_genai
+langchain-text-splitters
+langchain 
+langchain_core
+langchain_community
+faiss-cpu 
+pypdf
+pyPDF2
+python-dotenv
+
